@@ -1,0 +1,92 @@
+[
+  {
+    "Id": 1,
+    "Name": "3M Company",
+    "partCount": 5
+  },
+  {
+    "Id": 3,
+    "Name": "Anthem, Inc.",
+    "partCount": 8
+  },
+  {
+    "Id": 5,
+    "Name": "Atmel Corporation",
+    "partCount": 2
+  },
+  {
+    "Id": 6,
+    "Name": "Big Lots, Inc.",
+    "partCount": 3
+  },
+  {
+    "Id": 8,
+    "Name": "Casey\u0027s General Stores Inc.",
+    "partCount": 3
+  },
+  {
+    "Id": 10,
+    "Name": "Chubb Corp",
+    "partCount": 5
+  },
+  {
+    "Id": 12,
+    "Name": "CNF Inc.",
+    "partCount": 1
+  },
+  {
+    "Id": 13,
+    "Name": "CMGI Inc.",
+    "partCount": 5
+  },
+  {
+    "Id": 15,
+    "Name": "Danaher Corporation",
+    "partCount": 5
+  },
+  {
+    "Id": 17,
+    "Name": "E*Trade Group, Inc.",
+    "partCount": 2
+  },
+  {
+    "Id": 18,
+    "Name": "Emcor Group Inc.",
+    "partCount": 4
+  },
+  {
+    "Id": 20,
+    "Name": "IDT Corporation",
+    "partCount": 3
+  },
+  {
+    "Id": 22,
+    "Name": "Merck \u0026 Co., Inc.",
+    "partCount": 2
+  },
+  {
+    "Id": 24,
+    "Name": "Olin Corp.",
+    "partCount": 3
+  },
+  {
+    "Id": 25,
+    "Name": "Paychex Inc",
+    "partCount": 2
+  },
+  {
+    "Id": 27,
+    "Name": "Sunoco Inc.",
+    "partCount": 4
+  },
+  {
+    "Id": 28,
+    "Name": "Textron Inc",
+    "partCount": 5
+  },
+  {
+    "Id": 30,
+    "Name": "Wyeth",
+    "partCount": 4
+  }
+]
